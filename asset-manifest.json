@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Youtube-clone/static/css/main.da9b861d.css",
-    "main.js": "/Youtube-clone/static/js/main.14c162d2.js",
-    "reactPlayerPreview.js": "/Youtube-clone/static/js/reactPlayerPreview.231994e1.chunk.js",
-    "static/media/yt-logo-mobile.png": "/Youtube-clone/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
-    "static/media/yt-logo.png": "/Youtube-clone/static/media/yt-logo.d6505fbc930734374cea.png",
-    "index.html": "/Youtube-clone/index.html",
-    "main.da9b861d.css.map": "/Youtube-clone/static/css/main.da9b861d.css.map",
-    "main.14c162d2.js.map": "/Youtube-clone/static/js/main.14c162d2.js.map",
-    "reactPlayerPreview.231994e1.chunk.js.map": "/Youtube-clone/static/js/reactPlayerPreview.231994e1.chunk.js.map"
+    "main.css": "/Youtube-clone-react/static/css/main.da9b861d.css",
+    "main.js": "/Youtube-clone-react/static/js/main.42f6a203.js",
+    "reactPlayerPreview.js": "/Youtube-clone-react/static/js/reactPlayerPreview.231994e1.chunk.js",
+    "static/media/yt-logo-mobile.png": "/Youtube-clone-react/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
+    "static/media/yt-logo.png": "/Youtube-clone-react/static/media/yt-logo.d6505fbc930734374cea.png",
+    "index.html": "/Youtube-clone-react/index.html",
+    "main.da9b861d.css.map": "/Youtube-clone-react/static/css/main.da9b861d.css.map",
+    "main.42f6a203.js.map": "/Youtube-clone-react/static/js/main.42f6a203.js.map",
+    "reactPlayerPreview.231994e1.chunk.js.map": "/Youtube-clone-react/static/js/reactPlayerPreview.231994e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da9b861d.css",
-    "static/js/main.14c162d2.js"
+    "static/js/main.42f6a203.js"
   ]
 }
